@@ -1,0 +1,13 @@
+.HeadContainer{
+  width: 100vw;
+  height: 10vh;
+  padding: 50px;
+  background: cornflowerblue; 
+  /*overflow: hidden;*/
+}
+.App-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
